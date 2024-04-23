@@ -3,7 +3,7 @@
 ## Description
 
 This is repository for projects of CISC-830 Cyberinfrastructure Foundations.
-The course is offered by [Dr Linwei Wang](https://www.cs.rit.edu/~wjz/) in the Ph. D. Program in Computing and Information Sciences at GCCIS, Rochester Institute of Technology.
+The course is offered by [Dr Weijie Zhao](https://www.cs.rit.edu/~wjz/) in the Ph. D. Program in Computing and Information Sciences at GCCIS, Rochester Institute of Technology.
 
 ## Assignments
 
