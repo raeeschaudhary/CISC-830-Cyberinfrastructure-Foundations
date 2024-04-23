@@ -1,0 +1,10 @@
+Discrete Logarithms https://en.wikipedia.org/wiki/Discrete_logarithm
+Discrete Logarithms https://cp-algorithms.com/algebra/discrete-log.html
+
+Some ChatGPT commands to adapt code (code given with prompts)
+I need help with the discrete log assignment
+can you implement baby step or giant step implementation (code given)
+here is the the original code; your does not give me correct solution; change the code; 
+Command exited with non-zero status 139
+I think it is overflowing the long long; are there a bigger numbers; can you modify the accommodate bigger numbers than long long
+I cannot use external libray, what are larger data types in c++
